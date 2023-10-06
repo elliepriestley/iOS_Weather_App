@@ -23,5 +23,5 @@ Solo Hobby Project built to broaden my understanding of Swift and SwiftUI. This 
 
 ## 🔍 Showcase Graphics
 
-<img src= "/Showcase_Graphics/Welcome_View"> 
-<img src= "/Showcase_Graphics/Weather_View"> 
+<img src= "/WeatherApp/Showcase_Graphics/Welcome_View.png"> 
+<img src= "/WeatherApp/Showcase_Graphics/Weather_View.png"> 
