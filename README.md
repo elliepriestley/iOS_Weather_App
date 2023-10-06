@@ -1,9 +1,7 @@
-
-
-# iOS Weather Application
+# iOS Weather Application 🌦️
 
 ## 💬 About 
-Solo Hobby Project built to broaden my understanding of Swift and SwiftUI. This weather app makes use of Apple's CoreLocation framework to retrieve the user's location coordinates. It then makes a call to the [Open Weather API](https://openweathermap.org/) to retrieve the user's current weather information and displays it in a user-friendly and attractive UI.
+Solo Hobby Project built to broaden my understanding of Swift and SwiftUI. This weather app makes use of Apple's [Core Location](https://developer.apple.com/documentation/corelocation) framework to retrieve the user's location coordinates. It then makes a call to the [Open Weather API](https://openweathermap.org/) to retrieve the user's current weather information and displays it in an attractive UI.
 
 ## 🚀 Tech Stack 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
