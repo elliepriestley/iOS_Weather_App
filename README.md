@@ -8,9 +8,9 @@ Solo Hobby Project built to broaden my understanding of Swift and SwiftUI. This 
 
 ## 📲 SetUp 
 - Fork and clone this Repo to your local machine
-- If you don't already have a free account with Open Weather API, you can do so [here](https://home.openweathermap.org/users/sign_up)
-- After signing up/logging in, create an API Key by going clicking on your username, and then 'My API Keys' in the dropdown
-- Replace `YOURAPIKEY` on line 14 of Managers/WeatherManager with your own API Key from OpenWeather API: <br>
+- If you don't already have a free account with Open Weather API, you can sign up [here](https://home.openweathermap.org/users/sign_up)
+- After signing up/logging in, create an API Key by clicking on your username in the top right corner of the navbar, and then 'My API Keys' in the dropdown
+- Replace `{YOURAPIKEY}` on line 14 of Managers/WeatherManager with your own API Key from OpenWeather API: <br>
 `guard let url = URL(string: "https://api.openweathermap.org/data/2.5/weather?lat=\(latitude)&lon=\(longitude)&appid={YOURAPIKEY}&units=metric") else { fatalError("Missing URL")}`
 - The App is now ready to test on your own iOS device through Xcode's 'Devices and Simulators' feature
 
